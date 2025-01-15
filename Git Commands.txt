@@ -1,0 +1,8 @@
+git remote add origin https://github.com/AsherGarciaO/Curso-PHP.git
+
+git init (inizializar la conexion con git)
+git remote add origin https://github.com/AsherGarciaO/Curso-PHP.git (establece el origen a un repositorio en linea)
+git add . (agrega todos los archivos a un buffer entre git y github)
+git status (muestra el estatus de los archivos modificados, agregados, eliminados, etc)
+git commit -m "mensaje" (Agrega un mensaje al agregar el codigo al repositorio)
+git push origin master/main (procesa y sube el código al repositorio en linea)
